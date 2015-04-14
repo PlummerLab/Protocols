@@ -81,7 +81,7 @@ references:
 Based on @Parker1995.
 
 
-## Media preparation
+# Media preparation
 
 1. Cut cellophane into disks approximately the diameter of the petri dish that you are using.
 1. Soak cellophane pieces in ultrapure H~2~O (E.G. MilliQ, reverse osmosis etc.) for 12~hrs.
@@ -93,7 +93,7 @@ Based on @Parker1995.
 1. \[Optional\] Lighty score the cellophane membrane to encourage intracellulosic growth (Pers. Comm. K. Plummer).
 
 
-## Fungal preparation
+# Fungal preparation
 
 1. Cut mycellium from existing _Venturia_ cultures and blend in sterile ultrapure water (approx. 0.5 cm^2^·mL^-1^).
    Blend in short bursts to prevent temperature changes in water and improve blending efficiency.
@@ -105,7 +105,7 @@ Based on @Parker1995.
  - Continuous light. 25\ cm from \(near infrared\) GE black light 15\ W, 390\ nm (emission max) of 8.3\ μW·cm^-2^.
 
 
-## Conidial separation
+# Conidial separation
 
 1. Remove cellophane from agar surface and place in a 150\ mL beaker containing 50\ mL sterile H~2~O.
 1. Stir beaker slowly for about 5\ min to remove the conidia from the cellophane.
@@ -125,3 +125,6 @@ Based on @Parker1995.
 1. Dilute the suspension to a useable conidial concentration.
  - @Win2003 used 3×10^4^\ conidia·mL^-1^.
  - Others suggest using 10^5^\ conidia·mL^-1^.
+
+
+# References
